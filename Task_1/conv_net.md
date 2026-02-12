@@ -616,12 +616,3 @@ The confusion matrix below shows the performance of our CNN-based intrusion dete
 Convolutional Neural Networks represent a powerful class of deep learning models that excel at pattern recognition tasks. Their unique architecture—combining convolutional layers, pooling operations, and fully connected layers—enables automatic feature extraction from raw data. In cybersecurity, CNNs have proven invaluable for detecting malware, network intrusions, and other security threats by learning complex patterns that traditional rule-based systems might miss.
 
 The hierarchical feature learning capability of CNNs makes them particularly suited for analyzing network traffic, binary executables, and other security-related data where patterns exist at multiple levels of abstraction. As cyber threats continue to evolve, deep learning approaches like CNNs will play an increasingly critical role in maintaining robust security postures.
-
----
-
-## References
-
-1. LeCun, Y., et al. (1998). "Gradient-based learning applied to document recognition."
-2. Krizhevsky, A., et al. (2012). "ImageNet Classification with Deep Convolutional Neural Networks."
-3. Wang, W., et al. (2017). "Malware Traffic Classification Using Convolutional Neural Networks."
-4. Kim, J., et al. (2019). "Deep Learning for Network Intrusion Detection: A Survey."
